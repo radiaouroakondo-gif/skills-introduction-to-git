@@ -1,5 +1,7 @@
 # Introduction to Git
 
+I am learning Git
+
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey radiaouroakondo-gif!
